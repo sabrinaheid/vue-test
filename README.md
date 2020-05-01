@@ -1,4 +1,5 @@
-# vue-test
+
+# Playground vue-test
 
 ## Project setup
 ```
